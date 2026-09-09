@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Gustavo Sales, tenho 19 anos e sou natural de São Paulo. atualmente estou cursando o PROA (Curso técnico de tecnologia), Sou apaixonado por tecnologia e compartilho meu conhecimento por aqui, tenho muito interesse pela parte de back por que são muitas possiveis funcionalidades e isso me impressiona mais que tudo.     
+Me chamo Gustavo Sales, tenho 19 anos e sou natural de São Paulo. atualmente estou cursando o PROA (Curso técnico de tecnologia), Sou apaixonado por tecnologia e compartilho meu conhecimento por aqui, tenho muito interesse pela área de back end mas estudo front também, são muitas funcionalidades e possibilidades e é isso que me fascina! vou colocar aqui tudo oque eu estiver desenvolvendo e aprendendo.     
 
 ## 🤖 Linguagens e Tecnologias
 
